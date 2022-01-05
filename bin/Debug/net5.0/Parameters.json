@@ -1,10 +1,10 @@
 {
     "AuthenticationParameters": {
 
-        "Name": "05773626000154",
-        "Password": "SVP2021*",
+        "Name": "",
+        "Password": "",
         "Type": "Supplier",
-        "typeDoc": "CNPJ"
+        "typeDoc": ""
 
     },
     "QueryPhonesParameters": {
