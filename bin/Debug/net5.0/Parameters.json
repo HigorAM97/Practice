@@ -1,0 +1,37 @@
+{
+    "AuthenticationParameters": {
+
+        "Name": "05773626000154",
+        "Password": "SVP2021*",
+        "Type": "Supplier",
+        "typeDoc": "CNPJ"
+
+    },
+    "QueryPhonesParameters": {
+
+        "Event": "Bloqueado",
+
+        "ActivatedAtYear": "9999",
+        "ActivatedAtMonth": "12",
+        "ActivatedAtDay": "31",
+
+        "ActivatedAtEndYear": "9999",
+        "ActivatedAtEndMonth": "12",
+        "ActivatedAtEndDay": "31",
+
+        "How_Many_Days_Before_DateActivatedAtEnd": "0",
+
+        "DateEventYear": "9999",
+        "DateEventMonth": "12",
+        "DateEventDay": "31",
+
+        "DateEventEndYear": "9999",
+        "DateEventEndMonth": "12",
+        "DateEventEndDay": "31",
+
+        "How_Many_Days_Before_DateEventEnd": "3"
+
+    }
+	
+
+}
